@@ -1,0 +1,12 @@
+{
+  "class_to_idx": {
+    "Healthy": 0,
+    "aculus_olearius": 1,
+    "olive_peacock_spot": 2
+  },
+  "class_weights": {
+    "0": 1.146055979643766,
+    "1": 1.2964881980426022,
+    "2": 0.7373935821872953
+  }
+}
